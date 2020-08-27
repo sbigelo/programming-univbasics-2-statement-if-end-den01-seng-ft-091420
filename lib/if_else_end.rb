@@ -1,4 +1,4 @@
-
+curren_time = Time.now
 if 
   puts "Even!"
 else
